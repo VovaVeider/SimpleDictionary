@@ -2,9 +2,9 @@
 Unit Preview;
 
 interface
-
+{$reference 'System.Drawing.dll'}
 uses System, System.Drawing, System.Windows.Forms;
-
+uses PABCSystem;
 type
   Form1 = class(Form)
     procedure label2_Click(sender: Object; e: EventArgs);

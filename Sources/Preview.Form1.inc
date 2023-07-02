@@ -51,7 +51,7 @@ procedure InitializeComponent;
         self.label3.Name := 'label3';
         self.label3.Size := new System.Drawing.Size(194, 23);
         self.label3.TabIndex := 4;
-        self.label3.Text := 'Выполнил ст гр 146';
+        self.label3.Text := 'Выполнил student';
         // 
         // label4
         // 
@@ -60,7 +60,7 @@ procedure InitializeComponent;
         self.label4.Name := 'label4';
         self.label4.Size := new System.Drawing.Size(100, 23);
         self.label4.TabIndex := 5;
-        self.label4.Text := 'Дикун В.В';
+        self.label4.Text := 'VovaVeider (check GitHub)';
         // 
         // HelloPanel
         // 
@@ -70,9 +70,9 @@ procedure InitializeComponent;
         self.HelloPanel.Controls.Add(self.NextBtn);
         self.HelloPanel.Controls.Add(self.label4);
         self.HelloPanel.Controls.Add(self.label3);
-        self.HelloPanel.Location := new System.Drawing.Point(211, 0);
+        self.HelloPanel.Location := new System.Drawing.Point(165, 0);
         self.HelloPanel.Name := 'HelloPanel';
-        self.HelloPanel.Size := new System.Drawing.Size(191, 485);
+        self.HelloPanel.Size := new System.Drawing.Size(373, 485);
         self.HelloPanel.TabIndex := 6;
         // 
         // label1
@@ -118,7 +118,7 @@ procedure InitializeComponent;
         // Form1
         // 
         self.BackColor := System.Drawing.SystemColors.GradientInactiveCaption;
-        self.ClientSize := new System.Drawing.Size(402, 488);
+        self.ClientSize := new System.Drawing.Size(550, 565);
         self.Controls.Add(self.panel1);
         self.Controls.Add(self.HelloPanel);
         self.FormBorderStyle := System.Windows.Forms.FormBorderStyle.Fixed3D;
