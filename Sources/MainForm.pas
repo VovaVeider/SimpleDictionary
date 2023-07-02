@@ -110,7 +110,7 @@ begin
 end;
 procedure Form1.AboutProgram_Click(sender: Object; e: EventArgs);
   begin
-  MessageBox.Show('Словарь технических терминов  тема 2.7'+chr(10)+chr(13)+'Разработчик Дикун Владимир', 'О программе');
+  MessageBox.Show('Словарь '+chr(10)+chr(13)+'Разработчик VovaVeider : https://github.com/VovaVeider/SimpleDictionary', 'О программе');
   end;
 procedure Form1.Info_Click(sender: Object; e: EventArgs);
 begin
