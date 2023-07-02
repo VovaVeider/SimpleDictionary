@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project FileVersion="2" Name="Project8" MainFile="Start.pas" OutputFileName="Project8.exe" OutputDirectory="" ProjectType="WindowsApp" IncludeDebugInfo="False" GenerateXMLDoc="False" CommandLineArguments="" AppIcon="" DeleteEXE="True" DeletePDB="True" Product="" Company="" Trademark="" Copyright="" Title="" Description="" MajorVersion="0" MinorVersion="0" BuildVersion="0" RevisionVersion="0">
+  <Items>
+    <Item Type="SourceFile" Name="Start.pas" Path="Start.pas" />
+    <Item Type="SourceFile" Name="MainForm.pas" Path="MainForm.pas" />
+    <Item Type="SourceFile" Name="EditAddWordForm.pas" Path="EditAddWordForm.pas" />
+    <Item Type="SourceFile" Name="SphEditor.pas" Path="SphEditor.pas" />
+    <Item Type="SourceFile" Name="WaitWindow.pas" Path="WaitWindow.pas" />
+    <Item Type="SourceFile" Name="GetText.pas" Path="GetText.pas" />
+    <Item Type="SourceFile" Name="MainWindowPanels.pas" Path="MainWindowPanels.pas" />
+    <Item Type="SourceFile" Name="GetSphListModule.pas" Path="GetSphListModule.pas" />
+    <Item Type="SourceFile" Name="Preview.pas" Path="Preview.pas" />
+    <Item Type="SourceFile" Name="HelpModule.pas" Path="HelpModule.pas" />
+    <Item Type="Reference" AssemblyName="System" FullAssemblyName="System.dll" />
+    <Item Type="Reference" AssemblyName="System.Windows.Forms" FullAssemblyName="System.Windows.Forms.dll" />
+    <Item Type="Reference" AssemblyName="System.Drawing" FullAssemblyName="System.Drawing.dll" />
+    <Item Type="Reference" AssemblyName="System.Core" FullAssemblyName="System.Core.dll" />
+    <Item Type="Reference" AssemblyName="System.Data" FullAssemblyName="System.Data.dll" />
+    <Item Type="Reference" AssemblyName="System.Data.DataSetExtensions" FullAssemblyName="System.Data.DataSetExtensions.dll" />
+    <Item Type="Reference" AssemblyName="System.Xml" FullAssemblyName="System.Xml.dll" />
+    <Item Type="Reference" AssemblyName="System.Xml.Linq" FullAssemblyName="System.Xml.Linq.dll" />
+  </Items>
+</Project>
